@@ -18,8 +18,8 @@ pip install scipy
 
 ## Linux
 python code.py
-[other options]{https://askubuntu.com/questions/244378/running-python-file-in-terminal}
+[other options](https://askubuntu.com/questions/244378/running-python-file-in-terminal)
 
 
 ## Alternative: Jupyter Notebook
-Open the file pircher.ipynb in the [Jupyter Notebook]{https://jupyter.org/install} Environment.
+Open the file pircher.ipynb in the [Jupyter Notebook](https://jupyter.org/install) Environment.
