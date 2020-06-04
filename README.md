@@ -17,7 +17,7 @@ pip install scipy
 
 
 ## Linux
-python code.py
+python code.py<br>
 [other options](https://askubuntu.com/questions/244378/running-python-file-in-terminal)
 
 
